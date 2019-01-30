@@ -78,15 +78,6 @@
    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://linked.toerismevlaanderen.be/id/conceptschemes/70637944-99c4-4c6e-a361-813aae4be558>;
    <http://xmlns.com/foaf/0.1/page> <http://linked.toerismevlaanderen.be/doc/concepts/5d49dc34-133c-477e-8581-9b1071a87ce3> .
 
-<http://linked.toerismevlaanderen.be/id/concepts/c06f484f-f8c6-41c0-bb43-211a9a942e5b> a <http://www.w3.org/2004/02/skos/core#Concept>,
-     <https://data.vlaanderen.be/ns/logies#ToeristischeRegio>;
-   <http://mu.semte.ch/vocabularies/core/uuid> "c06f484f-f8c6-41c0-bb43-211a9a942e5b";
-   <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://linked.toerismevlaanderen.be/concepts/c06f484f-f8c6-41c0-bb43-211a9a942e5b>;
-   <http://www.w3.org/2004/02/skos/core#inScheme> <http://linked.toerismevlaanderen.be/id/conceptschemes/70637944-99c4-4c6e-a361-813aae4be558>;
-   <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaamse Ardennen"@nl;
-   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://linked.toerismevlaanderen.be/id/conceptschemes/70637944-99c4-4c6e-a361-813aae4be558>;
-   <http://xmlns.com/foaf/0.1/page> <http://linked.toerismevlaanderen.be/doc/concepts/c06f484f-f8c6-41c0-bb43-211a9a942e5b> .
-
 <http://linked.toerismevlaanderen.be/id/concepts/434521ce-28ef-4fc6-9c5f-db8f75f27213> a <http://www.w3.org/2004/02/skos/core#Concept>,
      <https://data.vlaanderen.be/ns/logies#ToeristischeRegio>;
    <http://mu.semte.ch/vocabularies/core/uuid> "434521ce-28ef-4fc6-9c5f-db8f75f27213";
