@@ -140,4 +140,71 @@
    <http://www.w3.org/2004/02/skos/core#prefLabel> "Voerstreek"@nl;
    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://linked.toerismevlaanderen.be/id/conceptschemes/70637944-99c4-4c6e-a361-813aae4be558>;
    <http://xmlns.com/foaf/0.1/page> <http://linked.toerismevlaanderen.be/doc/concepts/423cef99-a60d-4a3f-b1b8-78f12472624b> .
-# finished toeristische-regios at 2018-12-28T18:16:48+01:00
+<http://linked.toerismevlaanderen.be/id/concepts/4955bcf2-aa47-4417-9ac9-fd17f6d61ef1> a <https://data.vlaanderen.be/ns/logies#ToeristischeRegio>,
+     <http://www.w3.org/2004/02/skos/core#Concept>;
+   <http://mu.semte.ch/vocabularies/core/uuid> "4955bcf2-aa47-4417-9ac9-fd17f6d61ef1";
+   <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://linked.toerismevlaanderen.be/concepts/4955bcf2-aa47-4417-9ac9-fd17f6d61ef1>;
+   <http://www.w3.org/2004/02/skos/core#inScheme> <http://linked.toerismevlaanderen.be/id/conceptschemes/70637944-99c4-4c6e-a361-813aae4be558>;
+   <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunststeden"@nl;
+   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://linked.toerismevlaanderen.be/id/conceptschemes/70637944-99c4-4c6e-a361-813aae4be558>;
+   <http://xmlns.com/foaf/0.1/page> <http://linked.toerismevlaanderen.be/doc/concepts/4955bcf2-aa47-4417-9ac9-fd17f6d61ef1> .
+
+<http://linked.toerismevlaanderen.be/id/concepts/d2d03bf9-3ea8-4750-a7b6-b91680bcc90c> a <https://data.vlaanderen.be/ns/logies#ToeristischeRegio>,
+     <http://www.w3.org/2004/02/skos/core#Concept>;
+   <http://mu.semte.ch/vocabularies/core/uuid> "d2d03bf9-3ea8-4750-a7b6-b91680bcc90c";
+   <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://linked.toerismevlaanderen.be/concepts/d2d03bf9-3ea8-4750-a7b6-b91680bcc90c>;
+   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://linked.toerismevlaanderen.be/id/concepts/4955bcf2-aa47-4417-9ac9-fd17f6d61ef1>;
+   <http://www.w3.org/2004/02/skos/core#inScheme> <http://linked.toerismevlaanderen.be/id/conceptschemes/70637944-99c4-4c6e-a361-813aae4be558>;
+   <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen"@nl;
+   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://linked.toerismevlaanderen.be/id/conceptschemes/70637944-99c4-4c6e-a361-813aae4be558>;
+   <http://xmlns.com/foaf/0.1/page> <http://linked.toerismevlaanderen.be/doc/concepts/d2d03bf9-3ea8-4750-a7b6-b91680bcc90c> .
+
+<http://linked.toerismevlaanderen.be/id/concepts/35605b6f-0b57-45ae-a6bc-1a4626375563> a <https://data.vlaanderen.be/ns/logies#ToeristischeRegio>,
+     <http://www.w3.org/2004/02/skos/core#Concept>;
+   <http://mu.semte.ch/vocabularies/core/uuid> "35605b6f-0b57-45ae-a6bc-1a4626375563";
+   <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://linked.toerismevlaanderen.be/concepts/35605b6f-0b57-45ae-a6bc-1a4626375563>;
+   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://linked.toerismevlaanderen.be/id/concepts/4955bcf2-aa47-4417-9ac9-fd17f6d61ef1>;
+   <http://www.w3.org/2004/02/skos/core#inScheme> <http://linked.toerismevlaanderen.be/id/conceptschemes/70637944-99c4-4c6e-a361-813aae4be558>;
+   <http://www.w3.org/2004/02/skos/core#prefLabel> "Brugge"@nl;
+   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://linked.toerismevlaanderen.be/id/conceptschemes/70637944-99c4-4c6e-a361-813aae4be558>;
+   <http://xmlns.com/foaf/0.1/page> <http://linked.toerismevlaanderen.be/doc/concepts/35605b6f-0b57-45ae-a6bc-1a4626375563> .
+
+<http://linked.toerismevlaanderen.be/id/concepts/ed7b5c5c-4235-4967-b9aa-0cd4b03f558f> a <https://data.vlaanderen.be/ns/logies#ToeristischeRegio>,
+     <http://www.w3.org/2004/02/skos/core#Concept>;
+   <http://mu.semte.ch/vocabularies/core/uuid> "ed7b5c5c-4235-4967-b9aa-0cd4b03f558f";
+   <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://linked.toerismevlaanderen.be/concepts/ed7b5c5c-4235-4967-b9aa-0cd4b03f558f>;
+   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://linked.toerismevlaanderen.be/id/concepts/4955bcf2-aa47-4417-9ac9-fd17f6d61ef1>;
+   <http://www.w3.org/2004/02/skos/core#inScheme> <http://linked.toerismevlaanderen.be/id/conceptschemes/70637944-99c4-4c6e-a361-813aae4be558>;
+   <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl;
+   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://linked.toerismevlaanderen.be/id/conceptschemes/70637944-99c4-4c6e-a361-813aae4be558>;
+   <http://xmlns.com/foaf/0.1/page> <http://linked.toerismevlaanderen.be/doc/concepts/ed7b5c5c-4235-4967-b9aa-0cd4b03f558f> .
+
+<http://linked.toerismevlaanderen.be/id/concepts/de53b1db-64be-4fdb-a0eb-3920ab19add9> a <https://data.vlaanderen.be/ns/logies#ToeristischeRegio>,
+     <http://www.w3.org/2004/02/skos/core#Concept>;
+   <http://mu.semte.ch/vocabularies/core/uuid> "de53b1db-64be-4fdb-a0eb-3920ab19add9";
+   <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://linked.toerismevlaanderen.be/concepts/de53b1db-64be-4fdb-a0eb-3920ab19add9>;
+   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://linked.toerismevlaanderen.be/id/concepts/4955bcf2-aa47-4417-9ac9-fd17f6d61ef1>;
+   <http://www.w3.org/2004/02/skos/core#inScheme> <http://linked.toerismevlaanderen.be/id/conceptschemes/70637944-99c4-4c6e-a361-813aae4be558>;
+   <http://www.w3.org/2004/02/skos/core#prefLabel> "Leuven"@nl;
+   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://linked.toerismevlaanderen.be/id/conceptschemes/70637944-99c4-4c6e-a361-813aae4be558>;
+   <http://xmlns.com/foaf/0.1/page> <http://linked.toerismevlaanderen.be/doc/concepts/de53b1db-64be-4fdb-a0eb-3920ab19add9> .
+
+<http://linked.toerismevlaanderen.be/id/concepts/104d8914-3f24-4154-bb01-5ecba6081832> a <https://data.vlaanderen.be/ns/logies#ToeristischeRegio>,
+     <http://www.w3.org/2004/02/skos/core#Concept>;
+   <http://mu.semte.ch/vocabularies/core/uuid> "104d8914-3f24-4154-bb01-5ecba6081832";
+   <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://linked.toerismevlaanderen.be/concepts/104d8914-3f24-4154-bb01-5ecba6081832>;
+   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://linked.toerismevlaanderen.be/id/concepts/4955bcf2-aa47-4417-9ac9-fd17f6d61ef1>;
+   <http://www.w3.org/2004/02/skos/core#inScheme> <http://linked.toerismevlaanderen.be/id/conceptschemes/70637944-99c4-4c6e-a361-813aae4be558>;
+   <http://www.w3.org/2004/02/skos/core#prefLabel> "Mechelen"@nl;
+   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://linked.toerismevlaanderen.be/id/conceptschemes/70637944-99c4-4c6e-a361-813aae4be558>;
+   <http://xmlns.com/foaf/0.1/page> <http://linked.toerismevlaanderen.be/doc/concepts/104d8914-3f24-4154-bb01-5ecba6081832> .
+
+<http://linked.toerismevlaanderen.be/id/concepts/df8fcb3f-0979-4bc0-b24b-03c85de4dd61> a <https://data.vlaanderen.be/ns/logies#ToeristischeRegio>,
+     <http://www.w3.org/2004/02/skos/core#Concept>;
+   <http://mu.semte.ch/vocabularies/core/uuid> "df8fcb3f-0979-4bc0-b24b-03c85de4dd61";
+   <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://linked.toerismevlaanderen.be/concepts/df8fcb3f-0979-4bc0-b24b-03c85de4dd61>;
+   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://linked.toerismevlaanderen.be/id/concepts/4955bcf2-aa47-4417-9ac9-fd17f6d61ef1>;
+   <http://www.w3.org/2004/02/skos/core#inScheme> <http://linked.toerismevlaanderen.be/id/conceptschemes/70637944-99c4-4c6e-a361-813aae4be558>;
+   <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel"@nl;
+   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://linked.toerismevlaanderen.be/id/conceptschemes/70637944-99c4-4c6e-a361-813aae4be558>;
+   <http://xmlns.com/foaf/0.1/page> <http://linked.toerismevlaanderen.be/doc/concepts/df8fcb3f-0979-4bc0-b24b-03c85de4dd61> .   
